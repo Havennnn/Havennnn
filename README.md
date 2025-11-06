@@ -1,7 +1,7 @@
 # Hi! I am MarblsLats 👋
-**`Web Developer`**
+**`Aspiring Web Developer`**
 
-I'm a passionate web developer building dynamic and user-friendly websites and applications. I specialize in both frontend and backend technologies, with a focus on clean code, performance, and user experience. I enjoy solving real-world problems through code and continuously improving my skills.
+I'm a passionate web developer. I specialize in backend mainly in PHP and Laravel Framework.
 
 ## Portfolio: [latsmarbls.vercel.app](http://latsmarbls.vercel.app)
 
