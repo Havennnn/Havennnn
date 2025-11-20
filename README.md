@@ -1,7 +1,7 @@
 # Hi! I am MarblsLats 👋
 **`Aspiring Web Developer`**
 
-I'm a passionate web developer. I specialize in backend mainly in PHP and Laravel Framework.
+I'm a aspiring web developer. I specialize in backend mainly in PHP and Laravel Framework.
 
 ## Portfolio: [latsmarbls.vercel.app](http://latsmarbls.vercel.app)
 
